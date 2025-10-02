@@ -58,7 +58,7 @@ public class MovieServlet extends HttpServlet {
 			float rating = Float.parseFloat(rPoint);
 			
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			String url="jdbc:mysql://localhost:3306/bcapracticals";
+			String url="jdbc:mysql://localhost:3306/xyzpracticals";
 			String user="root";
 			String password="password";
 			
