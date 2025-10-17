@@ -1,5 +1,5 @@
 
-# 🎬 MovieServlet – A Simple Movie Management Servlet
+# 🎬 MovieServlet – A Movie Management Servlet
 
 ## 📘 Overview
 
